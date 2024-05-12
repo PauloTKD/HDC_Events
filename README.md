@@ -20,7 +20,7 @@ Os interessados em participar de um evento podem se registrar através do aplica
 Os organizadores recebem notificações sobre novos registros.
 
 ## Busca de Eventos:
-Os usuários podem pesquisar eventos com base em palavras-chave, categorias ou datas.
+Os usuários podem pesquisar eventos com base em palavras-chave, coomo titulo.
 Os resultados da busca são exibidos em uma lista organizada.
 
 ## Tecnologias Utilizadas:
