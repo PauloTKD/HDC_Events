@@ -7,31 +7,31 @@ O HDC Events é uma aplicação web de código aberto para gerenciar eventos onl
 Os organizadores podem criar novos eventos, fornecendo detalhes como título, data, hora e local.
 O aplicativo gera automaticamente uma página de evento com informações relevantes.
 
-##Atualizar Eventos:
+## Atualizar Eventos:
 Se houver alterações nos detalhes do evento, os organizadores podem fazer atualizações facilmente.
 As alterações são refletidas instantaneamente na página do evento.
 
-##Visualizar Detalhes do Evento:
+## Visualizar Detalhes do Evento:
 Os participantes podem acessar informações detalhadas sobre qualquer evento.
 A página do evento exibe detalhes como descrição, palestrantes, programação e localização.
 
-##Registro de Participantes:
+## Registro de Participantes:
 Os interessados em participar de um evento podem se registrar através do aplicativo.
 Os organizadores recebem notificações sobre novos registros.
 
-##Busca de Eventos:
+## Busca de Eventos:
 Os usuários podem pesquisar eventos com base em palavras-chave, categorias ou datas.
 Os resultados da busca são exibidos em uma lista organizada.
 
-##Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
-###Frontend:
+### Frontend:
 HTML e CSS;
 Framework laravel para uma experiência mais dinâmica.
 
-###Backend:
+### Backend:
 PHP;
 Banco de dados MYsql para armazenar informações sobre eventos e participantes.
 
-##Licença:
+## Licença:
 Este projeto está licenciado sob a Licença MIT. Sinta-se à vontade para usá-lo, modificá-lo e distribuí-lo conforme necessário.
