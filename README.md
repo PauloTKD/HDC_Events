@@ -13,11 +13,10 @@ As alterações são refletidas instantaneamente na página do evento.
 
 ## Visualizar Detalhes do Evento:
 Os participantes podem acessar informações detalhadas sobre qualquer evento.
-A página do evento exibe detalhes como descrição, palestrantes, programação e localização.
+A página do evento exibe detalhes como descrição, programação e localização.
 
 ## Registro de Participantes:
 Os interessados em participar de um evento podem se registrar através do aplicativo.
-Os organizadores recebem notificações sobre novos registros.
 
 ## Busca de Eventos:
 Os usuários podem pesquisar eventos com base em palavras-chave, coomo titulo.
