@@ -1,5 +1,5 @@
-# HDc Events: Gerenciamento de Eventos
-O Redmi WebApp é uma aplicação web de código aberto para gerenciar eventos online. Com uma interface intuitiva e recursos poderosos, o aplicativo permite que organizadores criem, atualizem e compartilhem informações sobre eventos de forma eficiente.
+# HDC Events: Gerenciamento de Eventos
+O HDC Events é uma aplicação web de código aberto para gerenciar eventos online. Com uma interface intuitiva e recursos poderosos, o aplicativo permite que organizadores criem, atualizem e compartilhem informações sobre eventos de forma eficiente.
 
 ## Funcionalidades Principais:
 
